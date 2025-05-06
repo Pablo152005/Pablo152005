@@ -5,14 +5,14 @@ I'm a passionate **Computer Engineering student** at **Universidad Europea de Ma
 ---
 
 ### 🌱 Currently Learning
-- **Deep Learning** with TensorFlow and PyTorch
+- **Deep Learning** with Java and PyTorch
 - **Computer Vision** and **Image Processing**
 - **Data Science** and **Machine Learning Algorithms**
 
 ---
 
 ### 💼 Skills and Technologies
-- **Languages**: Python, Java, C++
+- **Languages**: Python, Java
 - **Frameworks & Tools**: TensorFlow, OpenCV, SQL, Verilog
 - **Other Skills**: Algorithms, Data Structures, Cloud Computing, Version Control (Git)
 
@@ -29,6 +29,16 @@ Here are some of my personal projects:
 
 - **[CasinoOOP](https://github.com/tidexo/CasinoOOP)**  
   A project implementing object-oriented principles for simulating a casino game environment.
+  
+---
+
+### 🧑‍🤝‍🧑 Group Project
+
+**Proyecto de Ingeniería - V2 Cines**  
+Trabajo colaborativo desarrollado en Java con interfaz gráfica Swing, enfocado en la creación de un sistema moderno y mejorado de reservas de entradas de cine.  
+Mi contribución se centra en la arquitectura del sistema y el desarrollo de funcionalidades clave como los menús y la gestión de métricas.  
+🔗 [Repositorio del proyecto](https://github.com/lorenzico/Proyecto-Ingenieria)
+
 
 Check out my other repositories on my [GitHub Repositories](https://github.com/Pablo152005?tab=repositories).
 
